@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Kartikey Gupta and this is my profile:
+My name is Kartikey Gupta and welcome to my profile:
 
 - 😄 Pronouns: he/him
 - 🔭 I’m working on Web Development, Machine Learning and DSA.
